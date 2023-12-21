@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Languages and Skills
 
-Intrested in edge computing, distributed computing, deep learning, etc.
+Intrested in edge computing, distributed computing, deep learning, etc. 
 
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/66754ebb-c5f8-48d2-aaf9-bfbbeb8f4a65" alt="image" width="150" height="50">](https://www.python.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/636cb1c2-3b90-44d9-84ff-5aed716b2534" alt="image" width="50" height="50">](https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170)
