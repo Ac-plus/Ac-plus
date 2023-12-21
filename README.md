@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ### Languages and Skills
 
-![image]()
+
+
 
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/66754ebb-c5f8-48d2-aaf9-bfbbeb8f4a65" alt="image" width="150" height="50">](https://www.python.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/636cb1c2-3b90-44d9-84ff-5aed716b2534" alt="image" width="50" height="50">](https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170)
@@ -33,3 +34,6 @@ Here are some ideas to get you started:
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/373bdfe5-0e27-4a59-bf85-ee617074e2da" alt="image" width="52" height="50">](https://mathworks.com/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/879d9c4e-9d3a-43ef-9475-8e4f29876bb9" alt="image" width="52" height="50">](https://www.latex-project.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/1fb29fef-e3e6-4ec1-b086-bd8dfc3a6b75" alt="image" width="52" height="50">](https://www.kubernets.io/zh/)
+[<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/da332890-f759-4810-bab5-72e187becd82" alt="image" width="40" height="50">](https://www.mongodb.com/zh/)
+[<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/43247b16-6407-4994-a8eb-b549269fd7f9" alt="image" width="60" height="60.1">](https://www.postgresql.org)
+[<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/4b43bd46-dbfa-4ab8-bf51-f128ad2067d9" alt="image" width="50" height="50">](https://www.opencv.org)
