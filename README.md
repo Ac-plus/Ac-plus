@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 ### Languages and Skills
 
 Intrested in edge computing, distributed computing, deep learning, etc. 
+![image]()
 
 
 
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/66754ebb-c5f8-48d2-aaf9-bfbbeb8f4a65" alt="image" width="150" height="50">](https://www.python.org/)
-[<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/636cb1c2-3b90-44d9-84ff-5aed716b2534" alt="image" width="50" height="50">](https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170)
-[<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/58b73d54-2490-4e2a-bdac-81923600d948" alt="image" width="54" height="54">](https://isocpp.org/)
+[<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/636cb1c2-3b90-44d9-84ff-5aed716b2534" alt="image" width="45" height="50">](https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170)
+[<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/11fc57db-df69-4f9a-8125-d26844c2c029" alt="image" width="54" height="56">](https://isocpp.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/10293e27-cd5c-4344-9d48-4b336eaf4418" alt="image" width="50" height="50">](https://golang.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/88fc4127-c4dc-4945-a636-1fe92402ca77" alt="image" width="60" height="60">](https://pytorch.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/e845c7d2-68c8-4ef4-902b-42b392436e56" alt="image" width="50" height="49">](https://jupyter.org/)
