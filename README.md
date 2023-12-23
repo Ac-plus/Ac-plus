@@ -31,11 +31,13 @@ Intrested in edge computing, distributed computing, deep learning, etc.
 
 
 
+
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/66754ebb-c5f8-48d2-aaf9-bfbbeb8f4a65" alt="image" width="150" height="50">](https://www.python.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/07dca70a-864b-4874-b391-0d6e72e593cc" alt="image" width="50" height="50">](https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/3742975d-7eba-45b0-8d1b-51bf5550b2f7" alt="image" width="46" height="50">](https://isocpp.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/10293e27-cd5c-4344-9d48-4b336eaf4418" alt="image" width="50" height="50">](https://golang.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/88fc4127-c4dc-4945-a636-1fe92402ca77" alt="image" width="60" height="60">](https://pytorch.org/)
+[<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/48023417-a0e2-463c-9e39-da8be9fcede2" alt="image" width="50" height="52">](https://tensorflow.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/e845c7d2-68c8-4ef4-902b-42b392436e56" alt="image" width="50" height="49">](https://jupyter.org/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/cb261a80-3c7e-4528-801b-bace73730361" alt="image" width="130" height="40">](https://paddlepaddle.org.cn/)
 [<img src="https://github.com/Ac-plus/Ac-plus/assets/104805387/4b43bd46-dbfa-4ab8-bf51-f128ad2067d9" alt="image" width="50" height="50">](https://www.opencv.org)
