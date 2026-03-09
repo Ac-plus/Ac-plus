@@ -19,27 +19,15 @@ Here are some ideas to get you started:
   
 ### Languages
 
-- Python
-- Go
-- C/C++
-- SQL
+Python, Go, C/C++, SQL
 
 ### Skills(AI)
 
-- Pytorch
-- vLLM
-- MCP
-- RAG
-- SFT
-- FAISS
+Pytorch, vLLM, MCP, RAG, SFT, FAISS
 
 ### Skills(CS)
 
-- K8s
-- Docker/containerd
-- FastAPI
-- PostgreSQL
-- MongoDB
+K8s, Docker/containerd, FastAPI, PostgreSQL, MongoDB
 
 
 
