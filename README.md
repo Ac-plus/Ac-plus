@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **CS, AI(LLM), EC, ...**
 - 🌱 I’m currently learning **AI(LLM)**
-- 💬 Ask me anything about **ANON CHIHAYA*
+- 💬 Ask me anything about **ANON CHIHAYA**
   
 ### Languages
 
