@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **CS, AI(LLM), EC, ...**
 - 🌱 I’m currently learning **AI(LLM)**
-- 💬 Ask me about **Anything about Anon Chihaya**
+- 💬 Ask me anything about **ANON CHIHAYA*
 - 📫 How to reach me: ****
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
